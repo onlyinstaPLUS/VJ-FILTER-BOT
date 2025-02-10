@@ -244,10 +244,16 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
-JOIN :@EarnMoneyTips_Official
-Backup : @MovieCineverse
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}</b>
+
+<b>⚙️ sɪᴢᴇ : {file_size}</b>
+
+<b>JOIN :@EarnMoneyTips_Official</b>
+
+<b>Backup : @MovieCineverse</b>
+
+<b>JOIN MOVIE REQUEST GROUP </b>
+https://t.me/+RZ9US4mQT0IyMTM1""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
