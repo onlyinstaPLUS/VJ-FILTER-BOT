@@ -253,7 +253,7 @@ Nᴀᴍᴇ - {}"""
 <b>Backup : @MovieCineverse</b>
 
 <b>JOIN MOVIE REQUEST GROUP </b>
-https://t.me/+RZ9US4mQT0IyMTM1""" 
+https://t.me/+oYFuD29zhD05MDhl""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -477,13 +477,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
-    LOGO = """
-████████╗███████╗███████╗██╗  ██╗    ╔██        ██╗       ██╗
-╚═ ██╔══╝██╔════╝██╔════╝██║  ██║     ║██      ██║        ██║
-   ██║    █████╗  ██║      ███████║      ║██    ██║         ██║
-   ██║    ██╔══╝  ██║      ██╔══██║       ║██  ██║  ╔██     ██║
-   ██║    ███████╗███████╗██║  ██║        ║████║   ║████████║
-   ╚═╝    ╚══════╝╚══════╝╚═╝  ╚═╝        ╚════╝   ╚════════╝"""
+    LOGO = 'www.onlyinstaplus.in'
  
     TAMIL_INFO = """
 ஏய் <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a> 
